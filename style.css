@@ -594,7 +594,9 @@ footer span a:hover{
     }
     .about .about-content .column{
         width: 100%;
-        background-color: #111;
+        background-color: rgb(16, 17, 17);
+        color: white;
+    }
     }
     .about .about-content .left{
         display: flex;
